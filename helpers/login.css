@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	padding: 100px;
+	text-align: center;
+	background:#79AAFD;
+	font-family: Roboto;
+}
+
+
+input[type="text"], input[type="password"]{
+  outline: none;
+  padding: 20px;
+  display: block;
+  width: 300px;
+  border-radius: 3px;
+  border: 1px solid #eee;
+  margin: 20px auto;
+}
+
+input[type="text"], input[type="usuario"]{
+  outline: none;
+  padding: 20px;
+  display: block;
+  width: 300px;
+  border-radius: 3px;
+  border: 1px solid #eee;
+  margin: 20px auto;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  color: #E6E5DD;
+  background: #0098cb;
+  width: 270px;
+  margin: 20px auto;
+  margin-top: 0;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: Roboto;
+  font-size: large;
+  font-weight: bold;
+}
+
+.titulo {
+  color:#E6E5DD;
+}
